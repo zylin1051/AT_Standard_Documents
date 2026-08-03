@@ -19,8 +19,10 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
   - [ISO 15589-1-2015 (On-land Pipelines)](ISO_15589-1-2015.md)
   - [ISO 15589-2-2024 (Offshore Pipelines)](ISO_15589-2-2024.md)
   - [ISO 21809-3-2016 (Field Joint Coatings)](ISO_21809-3-2016.md)
-
 ---
+
+### NACE International Standard Recommended Practice
+- [NACE RP0105-2005 (Liquid-Epoxy Coatings for External Repair, Rehabilitation, and Weld Joints on Buried Steel Pipelines)]()
 
 # General Notes
 
