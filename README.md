@@ -22,7 +22,7 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
 ---
 
 ### NACE International Standard Recommended Practice
-- [NACE RP0105-2005 (Liquid-Epoxy Coatings for External Repair, Rehabilitation, and Weld Joints on Buried Steel Pipelines)]()
+- [NACE RP0105-2005 (Liquid-Epoxy Coatings for External Repair, Rehabilitation, and Weld Joints on Buried Steel Pipelines)](NACE_RP0105-2005.md)
 
 # General Notes
 
