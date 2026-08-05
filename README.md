@@ -21,7 +21,7 @@ This platform should be used as a refenrence only. **ALWAYS** refer the original
   - [ISO 21809-3-2016 (Field Joint Coatings)](ISO_21809-3-2016.md)
 ---
 
-### NACE International Standard Recommended Practice
+### National Association of Corrosion Engineers (NACE) International Standard Recommended Practice
 - [NACE RP0105-2005 (Liquid-Epoxy Coatings for External Repair, Rehabilitation, and Weld Joints on Buried Steel Pipelines)](NACE_RP0105-2005.md)
 
 # General Notes
